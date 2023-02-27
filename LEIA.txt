@@ -1,0 +1,10 @@
+Iniciar API FAKE
+json-server --watch db.json
+
+dentro da pasta /dados
+
+iniciar projeto
+
+ng serve
+or
+ng serve --open
